@@ -1,2 +1,2 @@
 # Hate-Speech-Detection-----ML-Capstone-project
-It is my 1st Capstone project.
+This is my 1st Capstone project which is based on Machine Learning.
